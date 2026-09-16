@@ -1,0 +1,27 @@
+AI Agent 开发实习生
+2026-09-08 17:16:28 刷新
+300-400/天 北京 本科 5天／周 实习3个月
+免费班车
+扫码手机查看
+投个简历
+职位描述：
+岗位职责
+1. 参与广告投放 Agent 研发与迭代，开发业务能力
+2. 设计 Prompt、上下文组织及工具调用逻辑
+3. 开发数据查询、API、投放分析等业务工具
+4. 分析线上 Bad Case，持续优化 Agent 效果
+5. 参与 RAG、Structured Output、模型调用等能力开发
+任职要求
+1. 计算机相关专业在读，本科及以上
+2. 熟悉 Python / Java / TypeScript / Go 之一
+3. 了解 Prompt、Tool Calling、RAG、Structured Output 等 LLM 基础能力
+4. 有 LangChain、LangGraph 等框架开发经验优先
+加分项
+1. 独立开发过 AI Agent 项目
+2. 有 Agent 评测、Bad Case 分析或效果优化经验
+3. 深度使用过 Claude Code、Cursor 等 AI Coding Agent
+投递要求：
+简历要求： 中文
+截止日期：2026-10-31
+工作地点：
+北京市/北京市/海淀区 上地·元中心
